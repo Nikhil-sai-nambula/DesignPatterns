@@ -1,0 +1,35 @@
+# Eclipse IDE
+.project
+.classpath
+.settings/
+.metadata/
+
+# Build output
+bin/
+target/
+
+# IDE-related files (for IntelliJ IDEA or VS Code)
+.idea/
+.vscode/
+
+# Java compiled files
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# IDE specific files
+*.iml
