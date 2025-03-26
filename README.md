@@ -3,8 +3,7 @@
 **A daily journey through Gang of Four (GoF) design patterns with code examples, explanations, and documentation.**
 
 [![Notion Documentation](https://img.shields.io/badge/Notion-Documentation-black?logo=notion)](https://www.notion.so/Design-Patterns-1c07c824104080249fd5d492617bdaf0?pvs=4)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nikhil-sai-nambula-262588203/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nikhil-sai-nambula-262588203/)
 
 ---
 
