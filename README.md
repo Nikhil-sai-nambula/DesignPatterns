@@ -22,18 +22,18 @@ This repository documents my daily exploration of software design patterns. Each
 
 ## 🛠️ Project Structure
 
-DesignPatterns/
-├── creational/ # Creational patterns
-│ ├── singleton/ # Singleton pattern
-│ │ ├── Singleton.java
-│ │ └── README.md
-│ ├── factorymethod/ # Factory Method pattern
-│ └── abstractfactory/
-├── structural/ # Structural patterns
-├── behavioral/ # Behavioral patterns
-├── docs/ # UML diagrams, cheatsheets
-├── LICENSE
-└── README.md
+    DesignPatterns/
+    ├── creational/ # Creational patterns
+    │ ├── singleton/ # Singleton pattern
+    │ │ ├── Singleton.java
+    │ │ └── README.md
+    │ ├── factorymethod/ # Factory Method pattern
+    │ └── abstractfactory/
+    ├── structural/ # Structural patterns
+    ├── behavioral/ # Behavioral patterns
+    ├── docs/ # UML diagrams, cheatsheets
+    ├── LICENSE
+    └── README.md
 
 ---
 
