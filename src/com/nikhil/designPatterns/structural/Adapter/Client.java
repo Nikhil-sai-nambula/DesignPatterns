@@ -1,4 +1,4 @@
-package com.nikhil.designPatterns.structural.Adapter;
+package com.nikhil.designPatterns.structural.adapter;
 
 public class Client {
 	public static void main(String[] args) {

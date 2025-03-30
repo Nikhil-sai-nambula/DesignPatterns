@@ -1,4 +1,4 @@
-package com.nikhil.designPatterns.structural.Adapter;
+package com.nikhil.designPatterns.structural.adapter;
 
 public class MP4Player {
 	public void playMP4(String fileName) {

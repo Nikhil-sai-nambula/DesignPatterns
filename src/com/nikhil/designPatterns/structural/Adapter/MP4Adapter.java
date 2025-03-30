@@ -1,4 +1,4 @@
-package com.nikhil.designPatterns.structural.Adapter;
+package com.nikhil.designPatterns.structural.adapter;
 
 public class MP4Adapter implements MediaPlayer {
 	private MP4Player mp4Player;
