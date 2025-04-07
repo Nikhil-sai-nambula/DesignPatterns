@@ -1,0 +1,13 @@
+package com.nikhil.designPatterns.behavioral.state;
+
+public class Client {
+	public static void main(String[] args) {
+		MediaPlayer player = new MediaPlayer();
+
+		player.play(); // Output: Starting playback...
+		player.pause(); // Output: Pausing...
+		player.play(); // Output: Resuming playback...
+		player.stop(); // Output: Stopping...
+		player.pause(); // Output: Cannot pause: Player is stopped!
+	}
+}
